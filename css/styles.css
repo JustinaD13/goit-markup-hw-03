@@ -22,11 +22,11 @@ button {
 }
 
 .container {
-    width: 1440px;
+    width: 1158px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 156px;
-    padding-right: 156px;
+    padding-left: 15px;
+    padding-right: 15px;
   
     
 }
@@ -41,7 +41,10 @@ background-color:
 
 .cards-item-wrapper {
     padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 16px;
     border: 1px solid #E7E9FC;
+    
 }
 
 
@@ -361,6 +364,7 @@ color: #2E2F42;
 
 .cards-item {
     background: #FFFFFF;
+    margin-bottom: 24px;
     
 }
 
